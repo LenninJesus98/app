@@ -1,0 +1,12 @@
+.row > div{
+    background: #f2f2f2;
+    padding: 30px;
+    border: 1px solid grey;
+  }
+
+  .card {
+      /* Centrar un div */
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}

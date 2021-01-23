@@ -1,0 +1,18 @@
+.row {
+    border-top: 1px solid black;
+    padding-top: 2em;
+    background-color: #1a1a1a;
+}
+
+h5 {
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-copyright {
+    background-color: #1a1a1a;
+}
